@@ -1,4 +1,6 @@
-(whatever ur 
+// whatever ur package is paste it here
+
+// by catdotcom and oragejuice
 
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.passive.EntityOcelot;
