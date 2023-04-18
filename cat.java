@@ -1,7 +1,5 @@
 // whatever ur package is paste it here
 
-// by catdotcom and oragejuice
-
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.passive.EntityOcelot;
 import net.minecraft.nbt.NBTBase;
@@ -47,3 +45,6 @@ public class ShoulderEntity extends AbstractFeature {
         return rotation;
     }
 }
+
+
+// by catdotcom and oragejuice
